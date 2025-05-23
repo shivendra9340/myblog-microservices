@@ -1,6 +1,6 @@
-﻿# MyBlog Microservices
+# MyBlog Microservices
 
-Ye repository meri microservices projects ke liye hai, jisme main Post Service, Comment Service, Server Service (Eureka), aur API Gateway bana raha hoon.
+This repository contains my microservices projects, which include the Post Service, Comment Service, Server Service (Eureka), and API Gateway.
 
 Technologies used:
 - Spring Boot
@@ -8,5 +8,6 @@ Technologies used:
 - API Gateway
 - Maven
 
-Is project ka maksad microservices architecture ko samajhna aur implement karna hai.
+The purpose of this project is to learn and implement microservices architecture, including the API Gateway for routing and managing requests.
+
 
